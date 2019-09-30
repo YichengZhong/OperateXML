@@ -1,0 +1,5 @@
+﻿  Do_XML.cpp
+f:\c++代码\xml文件\xml\xml\do_xml.cpp(181): warning C4018: “<”: 有符号/无符号不匹配
+  pugixml.cpp
+  正在生成代码...
+  XML.vcxproj -> F:\C++代码\XML文件\XML\Debug\XML.exe

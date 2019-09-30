@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Students>
+	<!--Students!-->
+	<Student id="1" type="colname">
+		<Name>MaZhe</Name>
+		<Age>18</Age>
+	</Student>
+	<Student id="2" type="colname">
+		<Name>Miki</Name>
+		<Age>19</Age>
+	</Student>
+	<Student id="3" type="colname">
+		<Name>Maki</Name>
+		<Age>20</Age>
+	</Student>
+</Students>

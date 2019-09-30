@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rptdata bigstepid="BigStep" smallstepid="SmallStep" i18nfile="upgrade_stepcfg_i18n.xml">
+	<displaycomponent type="table" title="titlelabekey1" rpttype="1" clearolddata="false">
+		<thead cols="4">
+			<col colid="1">
+				<property name="colname" type="String">StepNum</property>
+			</col>
+			<col colid="2">
+				<property name="colname" type="String">MML</property>
+			</col>
+			<col colid="3">
+				<property name="colname" type="String">Check DDM</property>
+			</col>
+			<col colid="4">
+				<property name="colname" type="String">CheckResult</property>
+			</col>
+		</thead>
+		<tbody rows="1">
+			<row color="defalut">
+				<entry value="test" />
+				<entry value="MML" />
+				<entry value="DISABLE" />
+				<entry value="CheckResult" />
+			</row>
+		</tbody>
+	</displaycomponent>
+</rptdata>
